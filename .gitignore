@@ -1,0 +1,6 @@
+# Build output
+taskflow
+*.o
+
+# Saved task data
+tasks.txt
